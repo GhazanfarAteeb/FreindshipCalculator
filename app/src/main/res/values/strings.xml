@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">Friendship Calculator</string>
+	<string name="enter_your_name">Enter your name</string>
+	<string name="enter_your_friend_s_name">Enter your friend\'s name</string>
+	<string name="calculate">Calculate</string>
+	<string name="friendship_calculator">Friendship Calculator</string>
+	<string name="check_your_friendship_status_with_your_friend">Check your friendship status with your friend</string>
+</resources>
